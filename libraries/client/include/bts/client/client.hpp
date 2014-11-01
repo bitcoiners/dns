@@ -77,6 +77,10 @@ namespace bts { namespace client {
           {
 #ifdef BTS_TEST_NETWORK
               uint32_t port = BTS_NET_TEST_P2P_PORT + BTS_TEST_NETWORK_VERSION;
+              default_peers.push_back( "54.68.226.101:1791" );
+              default_peers.push_back( "104.131.35.149:1791" );
+              default_peers.push_back( "66.172.10.95:1791" );
+              
 #else
               uint32_t port = BTS_NET_DEFAULT_P2P_PORT;
 #endif
