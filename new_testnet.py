@@ -25,6 +25,13 @@ new_genesis["bts_sharedrop"].append({
     "type": "bts_exodus_sharedrop"
 })
 
+new_genesis["balances"].append(
+	["PuVTvYER8hjVdqy6q5PUKSBRNdG9p2PTep", 1000])
+	
+new_genesis["balances"].append(
+	["PusXDPiS8aL7kCYoTDDc4gwCrWnwKdECte", 1000])
+
+
 for i in range(101):
     keys = json.loads(subprocess.check_output(["./programs/utils/bts_create_key"]))
     input_log.append(">>> wallet_import_private_key " + keys["wif_private_key"])
