@@ -83,9 +83,9 @@ namespace bts { namespace client {
               
 #else
               uint32_t port = BTS_NET_DEFAULT_P2P_PORT;
-              default_peers.push_back( "54.68.226.101:1791" );
-              default_peers.push_back( "104.131.35.149:1791" );
-              default_peers.push_back( "66.172.10.95:1791" );
+              default_peers.push_back( "54.68.226.101:1792" );
+              default_peers.push_back( "104.131.35.149:1792" );
+              default_peers.push_back( "66.172.10.95:1792" );
               
 #endif
               default_peers[0] += ":" + fc::to_string( port );
