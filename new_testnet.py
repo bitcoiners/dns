@@ -32,6 +32,13 @@ with open("libraries/blockchain/bts_sharedrop.json") as snapshot:
             "raw_address": item[0],
             "balance": item[1]
         })
+        
+new_genesis["balances"].append(
+    ["PuVTvYER8hjVdqy6q5PUKSBRNdG9p2PTep", 1000])
+    
+new_genesis["balances"].append(
+    ["PusXDPiS8aL7kCYoTDDc4gwCrWnwKdECte", 1000])
+        
 
 for i in range(101):
     keys = json.loads(subprocess.check_output(["./programs/utils/bts_create_key"]))
