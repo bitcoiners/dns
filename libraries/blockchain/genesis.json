@@ -1,12 +1,6 @@
 {
-    "bts_sharedrop": [
-        {
-            "raw_address": "XTSAY7NeKAAZ3n2B637SVFo8SzNoZ8DvoifX", 
-            "balance": 100000, 
-            "type": "bts_exodus_sharedrop"
-        }
-    ], 
-    "timestamp": "2014-11-03T05:55:05", 
+    "bts_sharedrop": [], 
+    "timestamp": "2014-11-04T09:40:27", 
     "balances": [
         [
             "PuVTvYER8hjVdqy6q5PUKSBRNdG9p2PTep", 
@@ -20,507 +14,507 @@
     "market_assets": [], 
     "names": [
         {
-            "owner": "DNS7pp2ikRoedKeEjDqyuKbUA3wNdgQ5dsDDPC333oRnrsUj6MjG1", 
+            "owner": "DNS7irHUciB8rB9ehKoRJHifFpDQ2Xx5LL2c2k4TWB4GTU9QVJAHP", 
             "delegate_pay_rate": 1, 
             "name": "init0"
         }, 
         {
-            "owner": "DNS8m79WayX7zroTLYkPA6mnbr8KxMpL14ZcptRuaU4aXm6cw26ij", 
+            "owner": "DNS83nVuLQDo8jNa1ctH5ptHUNgEZcTTkeDpiL5meeAKcA8UXPST4", 
             "delegate_pay_rate": 1, 
             "name": "init1"
         }, 
         {
-            "owner": "DNS6os1bs448iibmsgdqzQQA1UiWW7fxeTFfkXGRrMwzs7MQQTy2F", 
+            "owner": "DNS7kxyQpYkwF18roAYhwARmqCoSeupTs2yUUHsvXFkF6wiggcCAU", 
             "delegate_pay_rate": 1, 
             "name": "init2"
         }, 
         {
-            "owner": "DNS6xCESw4Lygc5AaVc8saWrYQHjPDDrF2M1GctbU9qtEztbS733Z", 
+            "owner": "DNS6hWa1kHFJsdxoLj8CGXrqr4ZoxcK6ZFC3rkaDuiMQvJHudSiuw", 
             "delegate_pay_rate": 1, 
             "name": "init3"
         }, 
         {
-            "owner": "DNS87dQKnFFyZuMbU9ABcaRxZF7QmG8Mkrke51ieJzrNc48hWmk3Q", 
+            "owner": "DNS51cWCpqhWSLdELWY6RngtbbGFfbBmZms7rVe4bwpBqmP9TDJft", 
             "delegate_pay_rate": 1, 
             "name": "init4"
         }, 
         {
-            "owner": "DNS66g74qGUkSMsG95Ccgb2YMwqY4ESykjtz2RvktL4tB9ToC2C53", 
+            "owner": "DNS5t9So9Z9Bd3LCeHqRNw9iWRxJonQTmopRxnjnX48ZjfHuQMR8S", 
             "delegate_pay_rate": 1, 
             "name": "init5"
         }, 
         {
-            "owner": "DNS8NP7bHYwfifekCLMiNzdxDK64xJrMLLwUbnuMxEs5LU8o55Dez", 
+            "owner": "DNS75Sx1ZPxwNS1wuHe92iMJSPAjQtxPANaWu6dJ6WmDvSCcbNTuJ", 
             "delegate_pay_rate": 1, 
             "name": "init6"
         }, 
         {
-            "owner": "DNS57XsNS6njKAdHYyYo2fnz9Ts74E12Rr3LLvKuuxPHQ68xr5ySc", 
+            "owner": "DNS5F1UpB4Qg3g4Tm8jEvVHxVFpjTyU2TqjhjGd2qf4PpLgi7UFDp", 
             "delegate_pay_rate": 1, 
             "name": "init7"
         }, 
         {
-            "owner": "DNS7aUVrRrrvLSuWLFsYh3ebKzi1fnfpPDUEb2whi113uJcHyLuQg", 
+            "owner": "DNS6MsFyKEm47sh5EwJRFWeYTYRXaj2M2ek1tPWmKAekhgCkMZ3cq", 
             "delegate_pay_rate": 1, 
             "name": "init8"
         }, 
         {
-            "owner": "DNS7ySdyuv6shvgVweeQD7L732htRW9LnGppbBm2h15YFFL4ifch4", 
+            "owner": "DNS5ZRFbnP1EYwQKKBkkNYw81Wuz1hXNk97WN795LWMvipGEikNys", 
             "delegate_pay_rate": 1, 
             "name": "init9"
         }, 
         {
-            "owner": "DNS5KWTeiqjYcAYUmN4SZuXLwdhoRrwEvy77qXBYAxLoCruv3B1Nu", 
+            "owner": "DNS5h6jjGgkQxAeogfcmqXgrhYmfgqWumKsVvTLe8z8GZR2WPBpjG", 
             "delegate_pay_rate": 1, 
             "name": "init10"
         }, 
         {
-            "owner": "DNS5VTN2hm5Jdu1kJ8SLHPKY9C8KdsfTAm9AZXptswNyjJyWHe9Qb", 
+            "owner": "DNS7TJT4bh6KsvShBRkDPpuhWamK2gZe6ZAT7V3obPxgPNaTLtExb", 
             "delegate_pay_rate": 1, 
             "name": "init11"
         }, 
         {
-            "owner": "DNS7ULEFrxor3jMDVhcqzfRxN11RYjUNGrCrqFaLw1aYJYzgByJMF", 
+            "owner": "DNS6XxGjCTYcp7Hn351gJrunTNFGit9sJmfKywZsSWbTk88vkWauW", 
             "delegate_pay_rate": 1, 
             "name": "init12"
         }, 
         {
-            "owner": "DNS5voHyJCZEt42pnpEmiRNMDi1rBHygaxm7jNN71rQuruPF1ZgU9", 
+            "owner": "DNS5wBpnba6RudXeiHf1BMgECqjfG7cXvjgEJDAwHPvB1LCCabpDR", 
             "delegate_pay_rate": 1, 
             "name": "init13"
         }, 
         {
-            "owner": "DNS8KXNgFkcQUHP9otor3swGPGHekWt5XtAnEWKfzpoL6zztYkQts", 
+            "owner": "DNS6yXFJmM9iq6pEE4AJc8zEANJpYb5k91sAstBBrtnemLijfdFYY", 
             "delegate_pay_rate": 1, 
             "name": "init14"
         }, 
         {
-            "owner": "DNS7x4NvoeWzAXsTwCdxgEDMRU1W8GtV3nX1rMaLp1KJ35sayFwb5", 
+            "owner": "DNS8KhVZw3xiQuWXfbr38ekTNbwt9BzGFEitzwTodoKH2JGnzhZ3x", 
             "delegate_pay_rate": 1, 
             "name": "init15"
         }, 
         {
-            "owner": "DNS7ZGiMxZBwqG2QNGsC4Fo3vMchFobuuCGcAgDUjm4ipQGvvE5RM", 
+            "owner": "DNS6dEsrPfHCQeVG2wVpfdFXpm2oYjazTrFGsyoxTfQuaamyg8EPT", 
             "delegate_pay_rate": 1, 
             "name": "init16"
         }, 
         {
-            "owner": "DNS8K4AzbLopnfCLVMJXK3ikRm4hrHNfbLspQqnEoGcYbhF8wH9XT", 
+            "owner": "DNS5VcpYKng9RfQ7k554m9qLs7aHF7DbmMXmvJhLBogbJe3CBHxTZ", 
             "delegate_pay_rate": 1, 
             "name": "init17"
         }, 
         {
-            "owner": "DNS8UjxW1nDYuaqy773Lxk5oEA37g8reg2hopdftXtQCLKqT54S89", 
+            "owner": "DNS8U33xubBgxJ3uMxAdWoGpewFUykiJqqWF8yxLxSfxpkiJddBie", 
             "delegate_pay_rate": 1, 
             "name": "init18"
         }, 
         {
-            "owner": "DNS6zp9VVSm4WTsiG9AXCoijsoDymmJvzn5hzYuer9BFfHijFxZ2e", 
+            "owner": "DNS7sdJzdbatGQrz6nT6Qk3uFceA4uWBR6HrHTZ28TUFCejXvpkSk", 
             "delegate_pay_rate": 1, 
             "name": "init19"
         }, 
         {
-            "owner": "DNS6LxoxcAbqfgc6kA6sPaNL8AVkbDBcFBugmtrpLawMuYDptrLsZ", 
+            "owner": "DNS6ckNrPhX5FHMvMQQh5ypJWMyk1jr6qYUZigsQCfn3HZYNbfAFe", 
             "delegate_pay_rate": 1, 
             "name": "init20"
         }, 
         {
-            "owner": "DNS5R6STcz4VdEAs57vYdbjujQuaXBmWoVy826Q3GwWSWvw2yfHU3", 
+            "owner": "DNS6TRHKxXnnGY6YD878dgf8mEGw19o8viQ7wKGvVUrhrH4G9QBrk", 
             "delegate_pay_rate": 1, 
             "name": "init21"
         }, 
         {
-            "owner": "DNS68c8444wPk3ggcKuaMxDjJu5aNSnQbpZM4XUsrMnGmmLkkpF9a", 
+            "owner": "DNS7AygtEExjkK1XwGsWUswaLbiNteM6VvgDNDeRQFr7CNKfj4Hvn", 
             "delegate_pay_rate": 1, 
             "name": "init22"
         }, 
         {
-            "owner": "DNS6nnwGrgAufXoo8oJXFP4TK66Gwtp9z1DLzceggCvk9tLFfSvem", 
+            "owner": "DNS6d91cqkFVefBMJc3GmXqAjpAD8nVp6pe4jfpRZq3rAEtrmEp4d", 
             "delegate_pay_rate": 1, 
             "name": "init23"
         }, 
         {
-            "owner": "DNS7rSPDdLT4nmRJxcVTaa8eqCBp1qMJmhDfBgY5RqW8aMED1ybcw", 
+            "owner": "DNS6ps9U8QdNo2nSJ76gVoW7rBGo4RcXGwtfHH3nLyf7Q4byo1gf1", 
             "delegate_pay_rate": 1, 
             "name": "init24"
         }, 
         {
-            "owner": "DNS6nFgSZbwS4EvRoh3sStwEwfDfaKYkEAVGToHRkoVNsjLYkiac4", 
+            "owner": "DNS5qyd131hCUZ5H5dtFcgQ7YfT4PkogPF55DuJBY4wEprtMXFpr7", 
             "delegate_pay_rate": 1, 
             "name": "init25"
         }, 
         {
-            "owner": "DNS6EAyxKg2iWrMRDe6W4i9Wp14Vimb8bRbs6FmebxbnkDREna3aH", 
+            "owner": "DNS6cnQbyJKfLtNDcXTm3AFig6MzX5rQbWxGj4o6mgwHP5ZBmhxp2", 
             "delegate_pay_rate": 1, 
             "name": "init26"
         }, 
         {
-            "owner": "DNS527urfBxK8dmf2sUgx8QxviKN42CFqV34EVcuhjDsCpSrEV2AK", 
+            "owner": "DNS8CBenqciycTapUgfNq3zfA5Kpt5ZhCzKoKEKawuJuap6LsTBdc", 
             "delegate_pay_rate": 1, 
             "name": "init27"
         }, 
         {
-            "owner": "DNS8hD1GSbJ98tAfiCgRfqGM8uwVnJhL1JeDTgvKPTV8BDK7dhm14", 
+            "owner": "DNS76LggXo3JLhotGcAmduXqkNERKLzxPKRqEzaSBcBhZ2DqntMNe", 
             "delegate_pay_rate": 1, 
             "name": "init28"
         }, 
         {
-            "owner": "DNS5ZbF6Sf2bDyrNWaEq3gkkYcUKnWvGjwxm5xxpP3X97Mk89ZSL2", 
+            "owner": "DNS7bjen1uyhhp9bSM4DSFAnXZs7VXHZ615uAJkrsu2CKofiYT4Ez", 
             "delegate_pay_rate": 1, 
             "name": "init29"
         }, 
         {
-            "owner": "DNS6J5MgZzeU5xYhhveBx8kTYze61SKvXF8EgQWhQ87k2MyyKjEYC", 
+            "owner": "DNS8Pv4qsuuty2bUSQzxnEEp2RA8rrijgYZoJpGVbm2XrE9vZmbAA", 
             "delegate_pay_rate": 1, 
             "name": "init30"
         }, 
         {
-            "owner": "DNS8SPZREjeY27oubRgPSkaVLaUp9rQLagVgtR8acwoA8e8FK3uee", 
+            "owner": "DNS8aNuQbdEa9XeQtqtTaYjY3vyE9gYiroprhkva4CvuG8JdcFTBU", 
             "delegate_pay_rate": 1, 
             "name": "init31"
         }, 
         {
-            "owner": "DNS6fRQcbarK4JzEQHFrs258SikvAfqLsMjF2B28tVYP64rCuvFZW", 
+            "owner": "DNS8F6hwTnrAwPy5kmL9kXSDwPMbmh9eAUXAs8DXnvY3i6UCFzkLH", 
             "delegate_pay_rate": 1, 
             "name": "init32"
         }, 
         {
-            "owner": "DNS56NsbiwBD7dGQXau5bKy8UbmNFh1FSbxVpYe5Fgc83q82Jt2vz", 
+            "owner": "DNS6mjXEy5e394Ev2kKzNXNKT8Qsk6kZa2tYKENhZhgjHQ3bfn1xm", 
             "delegate_pay_rate": 1, 
             "name": "init33"
         }, 
         {
-            "owner": "DNS7RLRsG786drQXbfrNjnCazSbNqbjLQLgEnG3mFT3Z1fhfD5BzV", 
+            "owner": "DNS8Za5VZ4gR9qpbJUDMr6mRcwTehqGXdXnZS3iAphhvpy7FJa1Fi", 
             "delegate_pay_rate": 1, 
             "name": "init34"
         }, 
         {
-            "owner": "DNS5yE9z4yqSv9MBSTwh54hDzbHJr4p2vdUP4JeRDusfPKp4LFrV2", 
+            "owner": "DNS6tAcs65o1FxtPGMvuDPKCe3WrK8eRSvCkMt6W6vQGHLkJch2Tm", 
             "delegate_pay_rate": 1, 
             "name": "init35"
         }, 
         {
-            "owner": "DNS5ZUKiAcgBHSqsATCwTNDGL4N6y5wx2gM2HvpBRksSMXUGKyx8a", 
+            "owner": "DNS6SKuTBeP8vS1C659TA2R3ThK8ACebBqckpLrP3n6qsiyUiTFJY", 
             "delegate_pay_rate": 1, 
             "name": "init36"
         }, 
         {
-            "owner": "DNS8A7A8xa3mJ9SmwHzAPSxf1ye91TShBigpwXfWdwCy8wPCPAC11", 
+            "owner": "DNS7x8VsnUaLo2vDHGhjL8es2oW7Vzt7NkaeHErySNsyYh3QEyQd8", 
             "delegate_pay_rate": 1, 
             "name": "init37"
         }, 
         {
-            "owner": "DNS8cy1BiDe49KM67cjh72mqL5ZmXLyYnCLfKK7GVMqsy88xVxLYc", 
+            "owner": "DNS7tZffgBrnJcDuf6VX6yB2zU2F6pQsAgoCoFUrhUM5ok7G9Zuhs", 
             "delegate_pay_rate": 1, 
             "name": "init38"
         }, 
         {
-            "owner": "DNS5Rvyyke2UtWYM1hJY4ukT5x3y5zPi77qafwMW5JbaYvuS4X6U6", 
+            "owner": "DNS5Yu8xbRwMdvKgGzRR27QW8x5Hkm3ND24xtjnUZazKNce1o8rJo", 
             "delegate_pay_rate": 1, 
             "name": "init39"
         }, 
         {
-            "owner": "DNS5qy3YpWSNuhxsutG3UoyHZ3TY5Fi6ky8rxMqbsdXExxxH2sJVV", 
+            "owner": "DNS6NJnqhVogzCFNtx7gGHGzGvy7jUY3RuTcxQ9YJhTDzYiSNNCNn", 
             "delegate_pay_rate": 1, 
             "name": "init40"
         }, 
         {
-            "owner": "DNS5ULRyB5AS8XFpQkFGan8qu9tEEr2nTy1hfGjSsGQ3te9PVz1F1", 
+            "owner": "DNS8a2od1FYhs3SBQt9tqek9xCHCKiLimLfHN7y9FJYWTwYwmc3LV", 
             "delegate_pay_rate": 1, 
             "name": "init41"
         }, 
         {
-            "owner": "DNS7MDBi8WMnUCQBLEKCSZ8uLsbH6PDBSU7QUzD2T1FzASpiCUmd9", 
+            "owner": "DNS7FNpTd3u3p9jCiGfzpP2uvMZq7bZJry1rNE4rcNG781HAWbLcr", 
             "delegate_pay_rate": 1, 
             "name": "init42"
         }, 
         {
-            "owner": "DNS5Vh7X3geXFJ5DNKhgb7eXVHLT1saGvKTAdq4Ec5BpX1s3iAHbL", 
+            "owner": "DNS7AguHdMeXx9xkCQWVVweCkXHtXFYyysgFxxyg45QCpMCuAa5gd", 
             "delegate_pay_rate": 1, 
             "name": "init43"
         }, 
         {
-            "owner": "DNS7N9Jb4b34hzqdii6zZ5LgeXfQW2rjLHRUVYa7muUmonsMW5iaT", 
+            "owner": "DNS4z9iB9aACwrLyJNBu8RVkZtBBy3VtTD3E8t71G4kS6SzoMx5Mo", 
             "delegate_pay_rate": 1, 
             "name": "init44"
         }, 
         {
-            "owner": "DNS7MjjM3jiJqvc2rHsiN2roxFdE6N26fyRdQgzChLbAF4ZRZ7mWM", 
+            "owner": "DNS6U2cSbFQTCgSM8C7rk2D12cs7L35ccZ6c1xEDDKKbAeaw74k8p", 
             "delegate_pay_rate": 1, 
             "name": "init45"
         }, 
         {
-            "owner": "DNS7sTfkN3XFTmXYDCSUpFYQbXoPKJdyZsM1b4wCsLE4qUrJAEWpV", 
+            "owner": "DNS6k74uj2cqixhe8ZTzKxBevq6KBEyRxkUgwTcdv75vFeUJQvuvu", 
             "delegate_pay_rate": 1, 
             "name": "init46"
         }, 
         {
-            "owner": "DNS69Fuw5nLFd9X6o6tU7rEUd1GzMRqBFV1kU34e4WRNwnYHr6MGV", 
+            "owner": "DNS5S1ZNUrvQQfxXhEQHq4EA9we3dqRyaMPU8955m2UfEp5xtk4g9", 
             "delegate_pay_rate": 1, 
             "name": "init47"
         }, 
         {
-            "owner": "DNS7TP9WhorAYFvd2uwtYFkg934nJZB6EjxwibQoSPGxWn5VLEG9B", 
+            "owner": "DNS6Lv6fZKfJTG1DMmdh2hbC8fYvoqoJq6xeNDuggtvgjLXNSZ5tw", 
             "delegate_pay_rate": 1, 
             "name": "init48"
         }, 
         {
-            "owner": "DNS7GfsyFPhcmtWDip6Zzy1K6pWA81KeuqyxG23mVng5543jzjmoZ", 
+            "owner": "DNS6QEEkToDLZJg2LxmQCUwmZ7HbqyxuKTjPLKp5xxQtRnqRXMnb2", 
             "delegate_pay_rate": 1, 
             "name": "init49"
         }, 
         {
-            "owner": "DNS7ssZ17Dx1ieMeCsx3AqTD4s4rACJgbBnPZmMwCoXarkaGHwTsV", 
+            "owner": "DNS7LoWWfCbwxmFfKTTuwtttAs24ocKJxNwXDXQnQ4sNpfoteWVdH", 
             "delegate_pay_rate": 1, 
             "name": "init50"
         }, 
         {
-            "owner": "DNS7ML74dvSiEG5RMWQVqZ8kA68FFgA8Sxt9YgULXyKJArg9vZwRk", 
+            "owner": "DNS5GFWeqgx1PQHqHo16WvjBcC612j69ABU9m6mtZWhNSp5bfNA66", 
             "delegate_pay_rate": 1, 
             "name": "init51"
         }, 
         {
-            "owner": "DNS6iQgYwzFAokWHrQqEkn7xvNaucJ17cgCw7CWtMZqfa5TLwNniJ", 
+            "owner": "DNS8g3mau9ek8X31bmPzGkftvjGYoWWnT2szuN1v4MQQJs9BbVtTo", 
             "delegate_pay_rate": 1, 
             "name": "init52"
         }, 
         {
-            "owner": "DNS6rmxXFSVgX2enRX7Aa49edQozDwZg3jGNgVYVqCSYxuY1qW9Lg", 
+            "owner": "DNS8hKKnNtvxEHHZjRWLrNupizWsTbFXW82rdzrSZjJfFHqjSumXh", 
             "delegate_pay_rate": 1, 
             "name": "init53"
         }, 
         {
-            "owner": "DNS6PtKivWNzGvHkPtp7uacJaFnDDM5mj298CNW6e3r2o6bUoyuEa", 
+            "owner": "DNS7rtnKLSQ56t741G1oGaHErd21x7BMPAfMircp6qTxBittyN1QV", 
             "delegate_pay_rate": 1, 
             "name": "init54"
         }, 
         {
-            "owner": "DNS6mNA2kQseXHVZDotAKpcku3yvZnGjM8WLxktTjZWrSy2QhCdy7", 
+            "owner": "DNS6eticqFnwNrowv1zXANYYo97UfkcPZgk7jgFEx6PkcdwpThp2e", 
             "delegate_pay_rate": 1, 
             "name": "init55"
         }, 
         {
-            "owner": "DNS51AxETQpdYxcGVEg4SGUDdxbtZSZ7w9NDYSxLfPCC6VPv3dVFa", 
+            "owner": "DNS68vkyKjB6BzFiGkzGj6PAo1uVudCsqVZ2AFP7h3dZzBadRvriE", 
             "delegate_pay_rate": 1, 
             "name": "init56"
         }, 
         {
-            "owner": "DNS7ASuCjAUihJsSbujNHNrv7qaXsf9NzmjPy5qWqpd1f5UecCBEK", 
+            "owner": "DNS6eKgDH44cwFUSpA9aFDqiyFfvC6zENgVbtcWgnxdoQtQt62rC1", 
             "delegate_pay_rate": 1, 
             "name": "init57"
         }, 
         {
-            "owner": "DNS8jbwZJKUzG4T2aukTPqDgiqXaTAEciePAgVt7xdtAwaiF7jCqs", 
+            "owner": "DNS6MEefdzUrvtG1SAkMAj9fT8E7KcvTSdy64uTihcnpKaVD6ys9K", 
             "delegate_pay_rate": 1, 
             "name": "init58"
         }, 
         {
-            "owner": "DNS6L2r4k6gRUx1voiGD3qgBr8m3LxbftY3FpKAY7qsb7HmSvPGiv", 
+            "owner": "DNS72viTDscjyqX7T3GpnSuALDkcU58UmSgWe2t69v9LfBBpH8iRK", 
             "delegate_pay_rate": 1, 
             "name": "init59"
         }, 
         {
-            "owner": "DNS6abSCfiCkprWT2RArW2UueRiffXhrTjwh2Nh4H9Nnms1wUZ7vT", 
+            "owner": "DNS7TaDk24WLTKeS1SkwQ7HQB8ijiNP2ndLuyi7zVj2AdRzoM95Uk", 
             "delegate_pay_rate": 1, 
             "name": "init60"
         }, 
         {
-            "owner": "DNS7VwGn7DMs1TM3aAGtAsYdR84rLQis2FU7pUVqm2k6hCxxZBceP", 
+            "owner": "DNS72boXnXJLk5RfUsbRq4EDrikK7zEoU5v7Lmob6W2rJXacNHxNo", 
             "delegate_pay_rate": 1, 
             "name": "init61"
         }, 
         {
-            "owner": "DNS74kcDHaDhs83TgTXBPqEkcUqRD339wqJ3N43fcvBTVN7J8g1aF", 
+            "owner": "DNS694dAgVms46E1ARM7GVnWST7SzMP5Fare2pHX5JkE1v3vXxXGL", 
             "delegate_pay_rate": 1, 
             "name": "init62"
         }, 
         {
-            "owner": "DNS6ywX7FsfCaAxDih7bvd4KRUmWaVbJZjLwasiT9psBtXcR4QHpc", 
+            "owner": "DNS6jyNdpob1nEwsX37ve2aCV3NiJyfbvoettJap48jNhbKvNCjgJ", 
             "delegate_pay_rate": 1, 
             "name": "init63"
         }, 
         {
-            "owner": "DNS8i5KeJZxFZYzaEvTpwZBPVqPSfMdBUbt76KdfdEJRV62jW16rR", 
+            "owner": "DNS6xZCMJ9MK5Zb1UEELfVekWS19x1KpQvXZgUPYC2BU3qmabz3Gz", 
             "delegate_pay_rate": 1, 
             "name": "init64"
         }, 
         {
-            "owner": "DNS8XQaPSNMg6VQVUgtGhTvfVbAZy9nz2vmR8fahqfZUp8ijNnYND", 
+            "owner": "DNS6tExu5QQJkfLPSV2XCt4yUMapUwhHixkipuHkZntKr1VhT5h3V", 
             "delegate_pay_rate": 1, 
             "name": "init65"
         }, 
         {
-            "owner": "DNS7Vy98tzYyAGG4T4Q3oR1uDWbWWEPEotXcR6rJaC97G2obh7YDz", 
+            "owner": "DNS688bPEKotwL4iWabEEwzh753tmthcttmwn9o7NF6X4pf83e97f", 
             "delegate_pay_rate": 1, 
             "name": "init66"
         }, 
         {
-            "owner": "DNS5Bw51TS87VcBLfwgnaTCCtbLzBLnFE6aT1Q7fxAqXyKuoYFotd", 
+            "owner": "DNS54JaVBRA4qKJiYqqF46xTEUnEuzEpH6HipzhiKZ4nuRamTra3u", 
             "delegate_pay_rate": 1, 
             "name": "init67"
         }, 
         {
-            "owner": "DNS8RMhgaGwh4bcNJWBWJunatj8n2AJiwJiDHB5omTnCxagd5sb93", 
+            "owner": "DNS8mXn3aUFTXqQqhddJKKPdDnfDXpuNfNfwvEZRo64uMcYKwzGyx", 
             "delegate_pay_rate": 1, 
             "name": "init68"
         }, 
         {
-            "owner": "DNS5vgfVgxLtTaS4DtsKP7StbzjExtK7oeLMhAWov3xZMtb4dmYfw", 
+            "owner": "DNS68sv6pakz4Q7w6yLXT6q3NUZHHwSWkmQ3ZEscjk6Vt8ktvf2bD", 
             "delegate_pay_rate": 1, 
             "name": "init69"
         }, 
         {
-            "owner": "DNS8NzrVYi6M28xdBinZXbjBkqyj1aZd7idFmv81vm79aiUevYQwC", 
+            "owner": "DNS6Bgxttt4RSG2fknEmj8DEXpvhhrJVUqX9SeBLvdnPRuE8voMUU", 
             "delegate_pay_rate": 1, 
             "name": "init70"
         }, 
         {
-            "owner": "DNS5cdbUFW2XnRNX8EZMSxD5aLHX1oLHKg7LtP9bAeLqGRBptP6CU", 
+            "owner": "DNS7i8NHyv8r1RApQUiyPBYAAQRBAMEVnfTkSNfDHcz2wi78LzkEv", 
             "delegate_pay_rate": 1, 
             "name": "init71"
         }, 
         {
-            "owner": "DNS7Ze2tsoRbpr6eJZE7n9kZc1NypWirsDASvspbt4SonTffz2S5z", 
+            "owner": "DNS8m7EC3fKMjD9EmayX8VUL44novdnWcycTqsvBuHRY7jjnWvuWX", 
             "delegate_pay_rate": 1, 
             "name": "init72"
         }, 
         {
-            "owner": "DNS7f66ci9tdfYjw2n73T33Cpe3zUyhTn5mxXrvsTymZq7LrCjCJQ", 
+            "owner": "DNS83E3Gamsg6sRPytyTX9gseN6bUsNNfbapZ5N7MWbKzbuc6gGYi", 
             "delegate_pay_rate": 1, 
             "name": "init73"
         }, 
         {
-            "owner": "DNS6wq4Zvngz75HHPSRo5qAAmYdjdisUnReFUAran2YgW69Ky7SYQ", 
+            "owner": "DNS6uedUs3tgztRd7jfy7gpQ2wXV3dhVk7BBwDNCWEqVqVnNsZ9Qh", 
             "delegate_pay_rate": 1, 
             "name": "init74"
         }, 
         {
-            "owner": "DNS7zeAnSoBvqVBEnRM6GHCynCaMzcLSAo26Az5kXk8zo4kqA4TEM", 
+            "owner": "DNS7BfzadS4zekB3c9zytjF8uiDGRRf9n6g6zMsor5PhP6U5i8kdd", 
             "delegate_pay_rate": 1, 
             "name": "init75"
         }, 
         {
-            "owner": "DNS7HJGcA4M6td64GFYZ8RmPwWCoe9826q5YrFPQ5xVvHvg62PFjx", 
+            "owner": "DNS7xaQMBYJq9XC14tho9RrECn6Y1EbG3crftd8WD5mosqypMf6to", 
             "delegate_pay_rate": 1, 
             "name": "init76"
         }, 
         {
-            "owner": "DNS8PbPmtTfpeKR121gWRGSGCfKsQsBTkrseSS9XXv1xxzBofdX7o", 
+            "owner": "DNS5mk2mSf3PovmrfuCcifiDSTj8EZjCCwBTiWAKMSk3oqWWghFLm", 
             "delegate_pay_rate": 1, 
             "name": "init77"
         }, 
         {
-            "owner": "DNS5jBGzUSzx7xWDzHxEBxtCR6f7KBPmPaF6KaMvRCNTJYFH8bWEB", 
+            "owner": "DNS7beNxPLbmU72CTV6DcdjWGgtXpuoRw1sMjVz4AJdHytfuTcgpw", 
             "delegate_pay_rate": 1, 
             "name": "init78"
         }, 
         {
-            "owner": "DNS7F8CSUZVyNSudWZdNcYnNd9uRsx2L2KosihHHCg8FVukxwhnRH", 
+            "owner": "DNS7N7D2NkQ9cZMuWgqHPXqbXcpfKN7ZE9GSPbMYyfSfedBfjLk5J", 
             "delegate_pay_rate": 1, 
             "name": "init79"
         }, 
         {
-            "owner": "DNS5aTbbG4dRBXUFQZSY3w4a4n2bLfTQzpT6ssfrJ1bQYa2ntkygx", 
+            "owner": "DNS6JmXVZzDSC3Agc7szuCse1nXMRnUe4zTwEmpGH8AQqXkAqNmdn", 
             "delegate_pay_rate": 1, 
             "name": "init80"
         }, 
         {
-            "owner": "DNS7eTVabFmHM62QsgUnAxNuFpaLQZo1D64eQSbDVLo2tiiWq25tz", 
+            "owner": "DNS51JvKzoAwhPFxApLAFbmzF4fj9bykrNEM53paWf2N8QqHSAJvi", 
             "delegate_pay_rate": 1, 
             "name": "init81"
         }, 
         {
-            "owner": "DNS5BPMBQazTv4UerYLm1m2FHLzChFdAiQDH5zKH9hB3UTUDht8re", 
+            "owner": "DNS79i3ZfT6LYdYYKpM7sY9hPyCSMzZ4CbXH7HZUXbi6gv9BiPCx2", 
             "delegate_pay_rate": 1, 
             "name": "init82"
         }, 
         {
-            "owner": "DNS5Zch6JZnxG7RS4LzGAYqTqXjrm4o8dk5ir7nEHaKfVgX4LcczV", 
+            "owner": "DNS7pr1MfaYZzBrnS546UZSHxyy8prcX5VLgs6TdSTdEocQgUdrsf", 
             "delegate_pay_rate": 1, 
             "name": "init83"
         }, 
         {
-            "owner": "DNS5sGs2Q7KtZ1Q4t9vQ9bkTSwx5fjE2iAoc5CjyGtDAoFE89CrQQ", 
+            "owner": "DNS613UW5Dmth3mqqkwpge4HkzfaCERFedQT7LZJ3cwiAU8ikYgsP", 
             "delegate_pay_rate": 1, 
             "name": "init84"
         }, 
         {
-            "owner": "DNS8PH1yv5DDrCAPDapvoEhZZPyxoBHi4TA9kBQTTRfFdyPuj3SR2", 
+            "owner": "DNS7uzRxTmt3f2DwU4zq4mj3FBF7nxCKod5kHbwJMTeAi5qBXbkif", 
             "delegate_pay_rate": 1, 
             "name": "init85"
         }, 
         {
-            "owner": "DNS5qyUXFjS4nkaeBnZ7tp3fZvxkdnsbxbEhwbxhrx9DUdvYYVi7j", 
+            "owner": "DNS76pasSRXDNUEppBiTMXVwoo1eRMV1iNafguuqu96xp18EKW54E", 
             "delegate_pay_rate": 1, 
             "name": "init86"
         }, 
         {
-            "owner": "DNS7hsz9b9Q9XZ2sU8Rvx6qBE8HV9vC52oMdjQyktTfnEqM9nLoBH", 
+            "owner": "DNS5TUPGKkMcKna2w8GksFLBJ6iEbKJBPd4vMH3QYk8ggPG2AxHwE", 
             "delegate_pay_rate": 1, 
             "name": "init87"
         }, 
         {
-            "owner": "DNS8hf4xTwHcVvepyREbKGzWZSPEL8QHEJtfC1XdSdwmdAHvcayCw", 
+            "owner": "DNS52Erpud1noaMxq7a78vWKkCcvQVoP6okeLYL5QRRgebCvd5hYx", 
             "delegate_pay_rate": 1, 
             "name": "init88"
         }, 
         {
-            "owner": "DNS64SRbmpSnWX6mLYzAfx2cQkjwJYA2wbcs4msYywrogrfBzbS5R", 
+            "owner": "DNS5an1g77M4gHanUHtFhDnU771docrF5QW4yuGwDN9ew2HJuQu8L", 
             "delegate_pay_rate": 1, 
             "name": "init89"
         }, 
         {
-            "owner": "DNS6XoLfoESTEDvmJxA3nLVA6dWDcrRxbpyPT1GkKoxyYvhoYkRsL", 
+            "owner": "DNS8kiX2X6zZ2EA4W67eHWPFYPjPiS9mZ1zEpDkJfuhXswKuwPn3b", 
             "delegate_pay_rate": 1, 
             "name": "init90"
         }, 
         {
-            "owner": "DNS7E8YGUF7Yw3wvFmfdjoKL3R8eK2MjygGx6KWxGAS9N1JQfUqpy", 
+            "owner": "DNS7uEE3nWgfBkQ3ivPFUvnY1sn6qPKZ8FxiD3J1USf5sMnmLtaQk", 
             "delegate_pay_rate": 1, 
             "name": "init91"
         }, 
         {
-            "owner": "DNS5X7rLfYSHdgKo68gkZTuWi1ia3qoJbKoMuBhmNgyGqedoN5fYo", 
+            "owner": "DNS8Tiq9GQCqRFthujG81U7bjuyUpLTt2dfFcJt92ex6keQagbRdS", 
             "delegate_pay_rate": 1, 
             "name": "init92"
         }, 
         {
-            "owner": "DNS59mDgc5FGTCsYtUiX4DbrsXigJHCV6zeThu4F8Fbrd1Pch7UdT", 
+            "owner": "DNS7ujkfJvE28xLPatxreJTmcmWXqt2aysxK5LpJ6Q6Zfx5Sb1h37", 
             "delegate_pay_rate": 1, 
             "name": "init93"
         }, 
         {
-            "owner": "DNS76gU116vKLViCMZn5nqmithUYE32Rf3XaGTDHnhSoCMhbTzDar", 
+            "owner": "DNS8MpReP7JKhTmgdjqLS8Y2URA16ETSpgqtP2FA1ttda7chQNDEx", 
             "delegate_pay_rate": 1, 
             "name": "init94"
         }, 
         {
-            "owner": "DNS5PUnYSjphZe1ssRSuHDN1GCSKq94T9YC7df7uGKuVwjgcdYbtQ", 
+            "owner": "DNS5ABxorbpxCeLwTheHFsus8Me4BsyusBZ4TzoyQAxduVgLBKpsp", 
             "delegate_pay_rate": 1, 
             "name": "init95"
         }, 
         {
-            "owner": "DNS5bCDBumCBm8DQb6NDQgDDqd3s9fjRsXDP3soZUZs34zyvsGNiJ", 
+            "owner": "DNS8ZrTaWVpfEzETKDeCEzp1PhH8yyBEGFgbfByVPHMvRQmNTAD6i", 
             "delegate_pay_rate": 1, 
             "name": "init96"
         }, 
         {
-            "owner": "DNS6oipF5dzmxSvjaKtRJ1uxpQyWFMpFa39NR445ipipQHnUg6PAr", 
+            "owner": "DNS7qMfEaSJsEoe1VqYsQ4Sx649AdGSViqyn3dctKEYwjV3h3nF4N", 
             "delegate_pay_rate": 1, 
             "name": "init97"
         }, 
         {
-            "owner": "DNS6tEHekizioVCQLUoEpB1ZhomfGxaWspDNq3LZVxMq6wT4vfDpP", 
+            "owner": "DNS7oKUYM8CD2VaVTsdai37dspXyfozDu4YqV9t1w4dAzXVzYJA24", 
             "delegate_pay_rate": 1, 
             "name": "init98"
         }, 
         {
-            "owner": "DNS8JaojeyGeazmtbZuFDdYNWiWJJB5XRuBJwfqE1ZmG86fPaoEnb", 
+            "owner": "DNS6m54Ng2oysx7wgRm3AZ7oCjjqo6L6gzp6aBQqVzPsqjoanGvKu", 
             "delegate_pay_rate": 1, 
             "name": "init99"
         }, 
         {
-            "owner": "DNS5wsuUZg1CRpAT48MZwuLnovwxU5rqpQfPzMaVBkYkWP5ULdqAG", 
+            "owner": "DNS79ZDbZeAjzgSs6YFNbWbFrEnFTExEkpfd9eSV7t5rg3LDhPJcB", 
             "delegate_pay_rate": 1, 
             "name": "init100"
         }
