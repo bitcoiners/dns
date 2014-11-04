@@ -653,7 +653,7 @@ void replay_chain_database()
   fc::future<void> client_done = client->start();
   fc::usleep(fc::milliseconds(10));
   bts::blockchain::chain_database_ptr source_blockchain = std::make_shared<bts::blockchain::chain_database>();
-  fc::path test_net_chain_dir("C:\\Users\\Administrator\\AppData\\Roaming\\BitShares X");
+  fc::path test_net_chain_dir("C:\\Users\\Administrator\\AppData\\Roaming\\BitShares DNS");
   source_blockchain->open(test_net_chain_dir / "chain", fc::optional<fc::path>());
   BOOST_TEST_MESSAGE("Opened source blockchain containing " << source_blockchain->get_head_block_num() << " blocks");
   unsigned total_blocks_to_replay = source_blockchain->get_head_block_num();// std::min<unsigned>(source_blockchain->get_head_block_num(), 30000);
@@ -722,7 +722,7 @@ void replay_chain_database_in_stages()
   fc::microseconds accumulated_time;
 
   bts::blockchain::chain_database_ptr source_blockchain = std::make_shared<bts::blockchain::chain_database>();
-  fc::path test_net_chain_dir("C:\\Users\\Administrator\\AppData\\Roaming\\BitShares X");
+  fc::path test_net_chain_dir("C:\\Users\\Administrator\\AppData\\Roaming\\BitShares DNS");
   source_blockchain->open(test_net_chain_dir / "chain", fc::optional<fc::path>());
   BOOST_TEST_MESSAGE("Opened source blockchain containing " << source_blockchain->get_head_block_num() << " blocks");
   unsigned total_blocks_to_replay = source_blockchain->get_head_block_num();// std::min<unsigned>(source_blockchain->get_head_block_num(), 30000);
